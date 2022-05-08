@@ -1,1 +1,1 @@
-Aplicação para gestão de serviços de alojamento local e limpezas.
+Gestão de serviços, alojamento local e limpezas. (Gestall)
